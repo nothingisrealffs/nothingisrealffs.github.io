@@ -1,7 +1,6 @@
 const sequenceLength = 8;
 let clickedSequence = [];
-const majorIP = "https://192.168.1.5:5000";
-const debug = "https://hrachovec.hopto.org";
+const debug = "http://hrachovec.hopto.org";
 const totalButtons = 36;
 const radius = 400; // Adjust this value to change the size of the circle
 const angleStep = (2 * Math.PI) / totalButtons;
